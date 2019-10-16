@@ -1,5 +1,5 @@
 PL = "Python, C++, JavaScript, Java,"
-phone_brands = "xiaomi, apple, 1+, samsung, huawei, oppo"
+phone_brands = "xiaomi\n, apple\n, 1+\n, samsung\n, huawei\n, oppo"
 
 print(f"This are some of the most popular programming languages: ", PL)
 print("This are some of the most popular phone brands: ", phone_brands )

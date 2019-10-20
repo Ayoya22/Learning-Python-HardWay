@@ -8,7 +8,7 @@ text = open(textfile)
 print(f'This is your text file {textfile} and this is what it contains:')# We are using argv method
 print(text.read()) #here we read the file and print it out.
 
-print('Pleease enter your text file again..')
+print('Please enter your text file again..')
 textfile2 = input()#Here we are using the input method.
 text2 = open(textfile2)
 print(text2.read())

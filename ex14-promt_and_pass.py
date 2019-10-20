@@ -1,10 +1,13 @@
+#This is a code that will use a system argument and prompt the user to input some data when the script is running.
 from sys import argv
 
+#The system arguments. Remember that the order in which you declare them is very important.
 filname, username = argv
 
 prompt1 = '>>'
 print(f'Hello {username}, you are running the code found in the {filname} python script.')
 print(f'I will like to know if you like me?')
+#Prompts the user to input in some data
 like = input(prompt1)
 print('why?')
 reason = input(prompt1)

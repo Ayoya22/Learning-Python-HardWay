@@ -1,3 +1,3 @@
-This is just data
-it will be deleted soon
-This is to demonstrate concepts of exercise 16.
+This program first crashed.
+But i debugged it.
+And now it is running, Jesus is Lord!

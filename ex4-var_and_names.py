@@ -19,3 +19,7 @@ print('We averagely have ', avg_num_sdt_per_class,' students per class')
 print('We averagely have ', avg_num_sdt_per_teacher,' students per teacher to lecture them.')
 
 print('We averagely have ', avg_person_per_class,' persons per class')
+
+print('This is is an important test!')
+
+print(f'The number of students is {students} in the whole school.')

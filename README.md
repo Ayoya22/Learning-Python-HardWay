@@ -1,0 +1,2 @@
+# Learning-Python-HardWay
+This is a series of 52 exercises that will take me through the course of learning python from a beginner level to an intermediate level. Each exercise represents a key feature of the python language that makes it so powerful and interesting. I divided the exercises in in order to increase the level of difficulty from the first to the last. You are able to clone the whole repo and run the individual exercises. Happy coding.

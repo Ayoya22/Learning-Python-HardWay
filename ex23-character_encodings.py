@@ -1,5 +1,5 @@
 import sys
-script, encoding, error = sys.argv
+script, encoding, error, text = sys.argv
 
 def main(language_file, encoding, errors):
     line = language_file.readline()
@@ -15,6 +15,6 @@ def print_line(line, encoding,errors):
 
     print(raw_bytes, "<===>", cooked_string)
 
-languages = open("ex23-language.txt", encoding="utf-8")
+languages = open(text, encoding="utf-8")
 
 main(languages, encoding, error)

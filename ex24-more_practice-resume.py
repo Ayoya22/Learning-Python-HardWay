@@ -2,3 +2,14 @@
 print("Let's go through most of the cool stuff")
 print('You\'d need to know \'bout escapes with \\ that do:')
 print('\n newlines and \t tabs.')
+
+phrase = """
+\t What is the essence of life ? What is my role in this 
+vast universe ?. The truth is we have a creator that
+loves every bit of us and is ready to sacrifice himself for us.
+ \nHis name is Jesus and he wants to be part of our life
+now and for eternity.
+"""
+print("-----------------------")
+print(phrase)
+print("-----------------------")

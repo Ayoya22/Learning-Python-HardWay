@@ -13,3 +13,11 @@ now and for eternity.
 print("-----------------------")
 print(phrase)
 print("-----------------------")
+
+ten = 30 - 20 + 40 -50 + 10
+print(f"This should be ten: {ten}")
+
+def testfunc(var1):
+    tot_marks = 280
+    avg = tot_marks / var1
+    return tot_marks, var1, avg

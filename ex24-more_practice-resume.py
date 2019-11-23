@@ -21,3 +21,8 @@ def testfunc(var1):
     tot_marks = 280
     avg = tot_marks / var1
     return tot_marks, var1, avg
+
+val = 15
+result = testfunc(val)
+# Remember that this is another way of printing a string
+print("The result is: {}".format(result))

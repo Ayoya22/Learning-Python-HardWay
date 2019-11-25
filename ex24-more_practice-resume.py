@@ -26,7 +26,8 @@ val = 15
 result = testfunc(val)
 # Remember that this is another way of printing a string
 print("The result is: {}".format(result))
-
+start_num = 7654
+tot_marks, avg, var1 = testfunc(start_num)
 # We can still print the results this way
 print(f"This is tot_marks:{tot_marks}, avg:{avg} and finally var1:{var1}")
 

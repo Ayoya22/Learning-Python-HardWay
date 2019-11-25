@@ -27,3 +27,6 @@ result = testfunc(val)
 # Remember that this is another way of printing a string
 print("The result is: {}".format(result))
 
+# We can still print the results this way
+print(f"This is tot_marks:{tot_marks}, avg:{avg} and finally var1:{var1}")
+
